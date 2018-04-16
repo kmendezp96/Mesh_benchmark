@@ -12,6 +12,20 @@ Hacer un benchmark (midiendo los *fps* promedio) de varias representaciones de m
 2. Renderice el _flock_ en modo inmediato y retenido, implementando la función ```render()``` del [boid](https://github.com/VisualComputing/framesjs/blob/processing/examples/Advanced/FlockOfBoids/Boid.pde).
 3. Haga un benchmark que muestre una comparativa de los resultados obtenidos.
 
+Benchmark
+FPS promedio
+|  | Vertex-Vertex | Face-Vertex |
+|------------|-------------|-------------|
+| Inmediato          | 20.42            | 22.01            |
+| Retenido          | 3.12            | 4.32            |
+
+FPS minimos
+|  | Vertex-Vertex | Face-Vertex |
+|------------|-------------|-------------|
+| Inmediato          | 7.81            | 7.56            |
+| Retenido          | 1.24            | 1.65            |
+
+
 ### Opcionales
 
 1. Realice la comparativa para diferentes configuraciones de hardware.
@@ -39,7 +53,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Kevin Mendez Paez           | Kmendezp96            |
 
 ## Entrega
 
