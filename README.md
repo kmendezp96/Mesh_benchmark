@@ -14,13 +14,13 @@ Hacer un benchmark (midiendo los *fps* promedio) de varias representaciones de m
 
 Benchmark
 FPS promedio
-|  | Vertex-Vertex | Face-Vertex |
+| algo | Vertex-Vertex | Face-Vertex |
 |------------|-------------|-------------|
 | Inmediato          | 20.42            | 22.01            |
 | Retenido          | 3.12            | 4.32            |
 
 FPS minimos
-|  | Vertex-Vertex | Face-Vertex |
+| algo | Vertex-Vertex | Face-Vertex |
 |------------|-------------|-------------|
 | Inmediato          | 7.81            | 7.56            |
 | Retenido          | 1.24            | 1.65            |
